@@ -1,0 +1,12 @@
+$primary-color: rgb(202, 114, 224);
+$secondary-color: gray;
+$tertiary-color: white;
+
+$primary-background-color: rgb(174, 218, 238);
+$secondary-background-color: $tertiary-color;
+$tertiary-background-color: $primary-color;
+
+$primary-text-color: $secondary-color;
+$secondary-text-color: $tertiary-color;
+
+$danger-color: red;
